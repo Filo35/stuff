@@ -6,6 +6,8 @@
 // @version     1
 // @author      Filo35
 // @description 12/10/2024, 14:57:00
+// @downloadURL  https://raw.githubusercontent.com/Filo35/stuff/refs/heads/main/ElencoFiltrato.js
+// @updateURL    https://raw.githubusercontent.com/Filo35/stuff/refs/heads/main/ElencoFiltrato.js
 // ==/UserScript==
 
 (function () {
